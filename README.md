@@ -55,11 +55,3 @@ To run this project, ensure you have the following:
 2. Open your browser and navigate to `http://localhost:8501`.
 
 3. Input your question in the text box, click the "Ask your question" button, and view the AI-generated response.
-
-input_text = st.text_input("Input :", key="input")
-submit = st.button("Ask your question")
-
-if submit:
-    response = get_gemini_response(input_text)
-    st.subheader("The response is:")
-    st.write(response)
