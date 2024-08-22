@@ -1,0 +1,6 @@
+streamlit
+#for our ui
+google-generativeai
+#for accessing prompt
+python-dotenv
+#to run api keys from .env
