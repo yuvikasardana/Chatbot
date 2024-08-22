@@ -25,8 +25,8 @@ To run this project, ensure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/smart-bot.git
-    cd smart-bot
+    git clone https://github.com/your-username/Chatbot.git
+    cd Chatbot
     ```
 
 2. Installing the required dependencies:
